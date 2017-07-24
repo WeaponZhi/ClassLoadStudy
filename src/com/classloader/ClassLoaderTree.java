@@ -1,5 +1,7 @@
+package com.classloader;
+
 /**
- * ClassLoaderTree 演示类加载器的树状组织结构
+ * com.classloader.ClassLoaderTree 演示类加载器的树状组织结构
  * author:张冠之
  * time: 2017/7/24 10:22
  * e-mail: guanzhi.zhang@sojex.cn
